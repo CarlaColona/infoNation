@@ -53,45 +53,26 @@ body {
 
 }
 
-.topnav {
+.navbar {
 
   overflow: hidden;
   background-color: black;
   opacity: 0.8;
   border-color: black;
-
-}
-
-.topnav a {
-
-  font-family: "proto-roman";
-  float: left;
-  display: block;
-  color: #ffe066;
-  text-align: center;
-  padding: 20px 16px;
-  text-decoration: none;
-  font-size: 30px;
+  position: center;
 
 }
 
 .active {
 
   background-color: rgb(204, 0, 0);
-
+  font-family: "proto-roman";
+  font-size: 30px;
 }
 
-.topnav .icon {
+.navbar-toggler {
 
-  display: none;
-  background-color: none;
-
-}
-
-.topnav a:hover {
-
-  background-color: #3c6bbb;
-
+  background-color: red;
 }
 
 article {
