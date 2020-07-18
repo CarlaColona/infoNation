@@ -510,6 +510,10 @@ h1, h2, h3, h4{
   color: rgb(204, 0, 0);
 }
 
+footer {
+  background-color: rgb(204, 0, 0);
+}
+
 /*
 ---------------------media queries------------------------------
 */
