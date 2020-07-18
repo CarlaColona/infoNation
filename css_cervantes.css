@@ -83,6 +83,27 @@ article {
 
 }
 
+.style {
+
+  background-color: black;
+  opacity: 0.8;
+  text-transform: uppercase;
+  font-family: "proto-roman";
+  font-size: 20px;
+  text-align: center;
+  color: #ffe066;
+  border: 3px solid black;
+  padding: 30px;
+  text-decoration: none;
+  margin-right: 7px;
+
+}
+
+.style:hover {
+
+  background-color: #3c6bbb;
+}
+
  .butn2 {
 
   background-color: black;
