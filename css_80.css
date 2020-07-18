@@ -48,44 +48,7 @@ body {
 
 }
 
-.topnav {
 
-  overflow: hidden;
-  background-color: green;
-  border-color: black;
-
-}
-
-.topnav a {
-
-  font-family: "bat";
-  float: left;
-  display: block;
-  color: yellow;
-  text-align: center;
-  padding: 20px 16px;
-  text-decoration: none;
-  font-size: 30px;
-
-}
-
-.active {
-  background-color: black;
-
-}
-
-.topnav .icon {
-
-  display: none;
-  background-color: none;
-
-}
-
-.topnav a:hover {
-
-  background-color: black;
-
-}
 
 article {
 
@@ -95,6 +58,50 @@ article {
   opacity: 1;
 
 }
+
+.style {
+
+  font-family: "bat";
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  background-color: red;
+  border: 3px solid black;
+  padding: 30px;
+  text-decoration: none;
+  margin-right: 7px;
+
+}
+
+.style:hover {
+
+  color: red;
+  background-color: white;
+  text-decoration: none;
+}
+
+.navbar {
+
+  overflow: hidden;
+  background-color: black;
+  opacity: 0.8;
+  border-color: black;
+  position: center;
+
+}
+
+.active {
+
+  background-color: green;
+  font-family: "bat";
+  font-size: 30px;
+}
+
+.navbar-toggler {
+
+  background-color: white;
+}
+
 
  .butn2 {
 
