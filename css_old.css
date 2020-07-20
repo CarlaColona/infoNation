@@ -9,16 +9,6 @@
 }
 
 @font-face {
-  font-family: "movie";
-  src: url(font/medieval/mov.ttf);
-}
-
-@font-face {
-  font-family: "tall";
-  src: url(font/medieval/Film.ttf);
-}
-
-@font-face {
   font-family: "holly";
   src: url(font/medieval/holly.ttf);
 }
