@@ -18,8 +18,8 @@
 	background-color: #00FAFA
 }
 
-.highlight[property~="cosmo:darkness"]{
-	background-color: #ffb3b3
+.highlight[property~="cosmo:place"]{
+	background-color: grey
 }
 
 .highlight[property~="cosmo:inertia"]{
@@ -46,18 +46,19 @@
 	background-color: #feef5d
 }
 
-.highlight[property~="cosmo:series"]{
-	background-color: #feef5d
+.highlight[property~="cosmo:biblioMarker"]{
+	background-color: brown
 }
 
 .highlight[property~="cosmo:similarity"]{
 	background-color: #feef5d
 }
 
-.highlight[property~="cosmo:symmetry"]{
-	background-color: #b3f0ff
+.highlight[property~="cosmo:time"]{
+	background-color: brown
 }
 
-.highlight[property~="cosmo:fictionalCharacter"]{
-	background-color:  #e6e6e6
+.highlight[property~="cosmo:num"]{
+	background-color:  orange
 }
+
